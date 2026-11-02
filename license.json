@@ -1,6 +1,10 @@
 ﻿{
-    "updated":  "2026-11-02 14:10:24",
+    "updated":  "2026-11-02 15:09:14",
     "codes":  {
-
+                  "543d5307304e2c09cb6cae9c1bb5dcb232f532bfef50fdfcdf2a697231b8faf9":  {
+                                                                                           "expire":  "2026-11-03",
+                                                                                           "note":  "CS",
+                                                                                           "created":  "2026-11-02"
+                                                                                       }
               }
 }
