@@ -1,6 +1,8 @@
-﻿{
+{
     "updated":  "2026-11-02 20:50:52",
     "codes":  {
 
-              }
+              },
+    "payload":  "ew0KICAgICJ1cGRhdGVkIjogICIyMDI2LTExLTAyIDIwOjUwOjUyIiwNCiAgICAiY29kZXMiOiAgew0KDQogICAgICAgICAgICAgIH0NCn0NCg==",
+    "sig":  "OoLwNn9eLf86SRxUtpladjCMg8YTv9JxwUG8+tY3u01O8kAHVBqB8KOgDWBdCaMLrgXgYPSL5zWQ9CqUGF4UUuCaWncLBMmryLYToPJDowaBW7QAtmiY/3eLLbZXU3BHjLOaTVtt0YLsUQjd+xZ6EYqz4+0m9YnVZeoP5DhMxTU2I8I5PSmHCHvnry04rjknr/LkS1W2dMNeawyxJJ9RoTibusL46qHtElf3t+zGWYk1w0zmBK4Qrh2xYHxAmF8F3fEWl6zcdLo6gZtTuuOdiygzZMwc9/t75stwUFN+WGnEPJvRrMiZcp5SPqhE4cye2FTdbaZPH+/imttMaYBGkQ=="
 }
