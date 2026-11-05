@@ -1,8 +1,11 @@
 {
-    "updated":  "2026-11-05 13:12:39",
+    "updated":  "2026-11-05 13:14:21",
     "codes":  {
-
+                  "e0908465999ca9565d4310243afb4755cdd8fde87f75273c63dbb3cdf0e01ebf":  {
+                                                                                           "days":  1,
+                                                                                           "created":  "2026-11-05"
+                                                                                       }
               },
-    "payload":  "ew0KICAgICJ1cGRhdGVkIjogICIyMDI2LTExLTA1IDEzOjEyOjM5IiwNCiAgICAiY29kZXMiOiAgew0KDQogICAgICAgICAgICAgIH0NCn0NCg==",
-    "sig":  "2KCB0XrNUARaxftXeilM6HSNYd81sy4U3t/ytcnmL4U1qFr/wcFZhbbH8rBzKcjmex/oZH21iYsh3mfEM+RM+YArJ5VirYRRG5UBoUFUijRserR+4mrdoYWOhA1u0Fg2U8L3ELwGZf/5dxISsksUAZkFvGA9UdlJ89Pn5xIgoyQu2+TbyCALbYPBaZNoQyC6ppT/JMiIOZ0jiJk/u9GMTYH0MDFxSTQGzCExsDgJhQxEWJfMdJu9y6U0XBfb2+eRqjtgdPaKyb9ifMGrOAVMdFxRClKWV0HD6CwvNdmBJc+Kt33HIIbeIJYrK4ZtDlI5z2NGMpjuN+3cLusqQJKawQ=="
+    "payload":  "ew0KICAgICJ1cGRhdGVkIjogICIyMDI2LTExLTA1IDEzOjE0OjIxIiwNCiAgICAiY29kZXMiOiAgew0KICAgICAgICAgICAgICAgICAgImUwOTA4NDY1OTk5Y2E5NTY1ZDQzMTAyNDNhZmI0NzU1Y2RkOGZkZTg3Zjc1MjczYzYzZGJiM2NkZjBlMDFlYmYiOiAgew0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICJkYXlzIjogIDEsDQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgImNyZWF0ZWQiOiAgIjIwMjYtMTEtMDUiDQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9DQogICAgICAgICAgICAgIH0NCn0NCg==",
+    "sig":  "2a77ANJR1E+e++nchlICxuJC2vSTtZBpDwcV22dYB94ZoEHZ9uyP4FleTWKj1psjUEMoaTiI+KpgHhDTv2MrhRijw8w7bM+ExCFt2vtOaREKTZ74/dWNRfk55R/bNVQXdUFR8YDqAwPrbh8ZuR579fFQrP/o1iOFU6AfyfM5R5oJLoqH8Dm36bTP7oj4NhjA4ZBKu7KQNEcCtbkr+++nLgEH7oW4XFERM0AjFh6vWD8a8N9cncMpbjQVxdmjkKLqEUKS//iTX6n36Lsdvt9HftO0d+k2p869D2tvNs54XwolfNrqOUyXxxM/d40X0G8I+VEVPvUx1R3rRRRP1yKFyA=="
 }
