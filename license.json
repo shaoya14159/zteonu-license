@@ -1,8 +1,11 @@
 {
-    "updated":  "2026-11-05 13:26:42",
+    "updated":  "2026-11-05 13:29:02",
     "codes":  {
-
+                  "11edca06229bce7df1f06e2e2823956df95154e892c0ef704f579503e19dcace":  {
+                                                                                           "days":  1,
+                                                                                           "created":  "2026-11-05"
+                                                                                       }
               },
-    "payload":  "ew0KICAgICJ1cGRhdGVkIjogICIyMDI2LTExLTA1IDEzOjI2OjQyIiwNCiAgICAiY29kZXMiOiAgew0KDQogICAgICAgICAgICAgIH0NCn0NCg==",
-    "sig":  "oc8HzzcLL2j03NRRfR8JQSpncyD1lj7JPKxkhdj2hY9d8dDcJGeNul/n337pVOUj1DIqFtvXEHxfeM3jlSSByRCsPesUkT2ZhcE8250kpsOLLf0uZ4zQCGFOgbxiC458do4FpYr67jIgkYVBMld5W61PLr+1h/5VQajfaUz+1Th7ydgxUWRE6YVdW7/Cz9/fljF2NmRHUuIQalt5o6gkV/ePVaq95BW34XekdJJdRC9Dy2K1skwTBArhdxs5aYo9MKpIOJ0PwCHFOG0nJJ9cFAko64YQ2o+6pPj8t7ys0NB5v/Qw6jgX4bApsPRUfnONF4Dv7Gtlpnp9IcLcIZuIfw=="
+    "payload":  "ew0KICAgICJ1cGRhdGVkIjogICIyMDI2LTExLTA1IDEzOjI5OjAyIiwNCiAgICAiY29kZXMiOiAgew0KICAgICAgICAgICAgICAgICAgIjExZWRjYTA2MjI5YmNlN2RmMWYwNmUyZTI4MjM5NTZkZjk1MTU0ZTg5MmMwZWY3MDRmNTc5NTAzZTE5ZGNhY2UiOiAgew0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICJkYXlzIjogIDEsDQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgImNyZWF0ZWQiOiAgIjIwMjYtMTEtMDUiDQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9DQogICAgICAgICAgICAgIH0NCn0NCg==",
+    "sig":  "GjYas9jOGXeRpnm3aYUmqZJi31NCTvnoAQxNEshrpPv4ADfqPoHcUcHDcxshX5nc1hJOSFQFwCMWDUNt5Ng6E7NDrPO3dDMjdHQgjHxMjiyiwmgtrTU5GtEy5rbm64aSRpZBJ/77z3vAqD85HgkN5TVMAKGkfIEluLMef5aNG7G3VWxdf8/9ciz1+ONHjOWAhNnrPqML0glB+Q/eS+3U2vquOroyeLL3vy4xFHjJqkGBdsqXKI5WlntpVgH96/vRs/cS0ZyQDD+JAcuNIpkThGDIQ/al/AULrvwJ27gcXLXyt7tKtizd2nZPBklJ9jqHt6hoj5JPaDEMUGmeTtgtlg=="
 }
