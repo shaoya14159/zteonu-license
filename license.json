@@ -1,8 +1,11 @@
 {
-    "updated":  "2026-11-05 13:09:30",
+    "updated":  "2026-11-05 13:09:38",
     "codes":  {
-
+                  "3ca78260ab0a8f478101131b199d0ddae3d61efb9edf4d312e59eab40ec6f251":  {
+                                                                                           "days":  30,
+                                                                                           "created":  "2026-11-05"
+                                                                                       }
               },
-    "payload":  "ew0KICAgICJ1cGRhdGVkIjogICIyMDI2LTExLTA1IDEzOjA5OjMwIiwNCiAgICAiY29kZXMiOiAgew0KDQogICAgICAgICAgICAgIH0NCn0NCg==",
-    "sig":  "hofm5t//KELLePEJEl54QRR/o5jpN/CE/nvLYh7L8vKc43idnubUfw1ypRrNaC2MaNJXg+CPMo0+BQnciqIwJLIdRaEbrpdnRJ7zYdyO4z5Lq1Lb+nGIKIb6OwjCdevibEfQS5XIpZ3vh/NrjyZGvUvifUNMRCGud9S/T3vtFAv91G5ZDeLixY1ABDVvUtdXQJLjIFzLLCZdLIQRvOF52Ozeifj1MciQbFWEWbEZ7ff1bNrd6ocMFMB7abfDhFhAOxUvW28umtpVP8wSwC21WF5fXuwe/oPwwHTqv3MHiZ+AwT4vcoG3fl7/zlMDgkENxKJGqBa0BKtYuI6IbT1zjQ=="
+    "payload":  "ew0KICAgICJ1cGRhdGVkIjogICIyMDI2LTExLTA1IDEzOjA5OjM4IiwNCiAgICAiY29kZXMiOiAgew0KICAgICAgICAgICAgICAgICAgIjNjYTc4MjYwYWIwYThmNDc4MTAxMTMxYjE5OWQwZGRhZTNkNjFlZmI5ZWRmNGQzMTJlNTllYWI0MGVjNmYyNTEiOiAgew0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICJkYXlzIjogIDMwLA0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICJjcmVhdGVkIjogICIyMDI2LTExLTA1Ig0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfQ0KICAgICAgICAgICAgICB9DQp9DQo=",
+    "sig":  "2X3Gq+mc/jukNyjFFX4/JtiP+MlxtVIcn7Ae7WEdAJjC0kT2UnyIfs/XTBy/KJRZwxgvvWoTAO68F3U3WIlJs8lPfeLcWQqEaalU4kVH7Wt/2DgKcfNfCxeVXRscb6I3EY1wCAiTGzgYN4DtGXVo/+wZ6o65w+LOLgAHZoDT81KT/6/ycUB4tiO3OIgUpBgdhi9i23P4OIab18td6Cl8BK3BKu2zT2QNI6WaK/2yvX0jdnkkax2h4+wEtBaxDd0Ybe0XtElU/ZTh8ir814YXlLuKJEX9ITGwwwofS942VTqJ6Anij1tox6949AEXS4F357E2Lyio0nwFburmsYz+Hg=="
 }
